@@ -1,5 +1,5 @@
 ## Try the App:
-    https://leapcode.vercel.app/editor
+https://leapcode.vercel.app/editor
 
 ## Development
 ```
